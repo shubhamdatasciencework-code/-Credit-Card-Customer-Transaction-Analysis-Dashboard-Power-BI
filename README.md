@@ -1,0 +1,2 @@
+# -Credit-Card-Customer-Transaction-Analysis-Dashboard-Power-BI
+ Credit Card Customer &amp; Transaction Analysis Dashboard | Power BI  Developed an interactive Power BI dashboard to analyze credit card revenue, transaction amounts, interest earned, customer demographics, and spending patterns. Used data visualization, DAX, and data cleaning to identify key business insights and support data-driven decision-making.
